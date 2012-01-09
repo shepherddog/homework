@@ -1,0 +1,2 @@
+markdown-1.2.2.vba: call delete('/home/shepherd/.vim/ftdetect/markdown.vim')|call delete('/home/shepherd/.vim/snippets/markdown.snippets')|call delete('/home/shepherd/.vim/syntax/markdown.vim')
+tcomment.vba: call delete('/home/shepherd/.vim/doc/tcomment.txt')|call delete('/home/shepherd/.vim/plugin/tcomment.vim')|call delete('/home/shepherd/.vim/autoload/tcomment.vim')
