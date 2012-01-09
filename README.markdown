@@ -4,5 +4,5 @@
 
 <hr>
 
-<pre><code class="c">printf("hello world!");
-</code></pre>
+>This project stores my config files including vim config file, octopress, etc. 
+I also put some of my homeworks here.
